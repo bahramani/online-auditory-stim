@@ -99,6 +99,8 @@ Update configuration values in that script (`cont_stims_folder`, `cont_stim_id`,
 - Use Windows-style path separators in MATLAB scripts as currently written.
 - Ensure acquisition and audio devices are available before launching stimulation.
 
+https://colab.research.google.com/drive/1TMBtYU8vSztmx2b2Uc54R0u0NNbooZmh?invite=CLKAragM
+
 ## License
 
 This project is licensed under the terms in `LICENSE`.
